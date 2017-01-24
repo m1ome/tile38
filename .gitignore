@@ -7,3 +7,6 @@ packages/
 
 # Ignore VS Code folder
 .vscode/
+
+# Ignore .idea folder
+.idea/
